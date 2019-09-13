@@ -2,4 +2,4 @@
 ### Dependencies
 NPM, Truffle, Ganache and Metamask
 ### App preview
-![Preview1](app 1.PNG)
+![](decentralized-app/app 1.PNG)
