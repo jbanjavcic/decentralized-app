@@ -1,4 +1,4 @@
-# Decentralized app made for a student project
+# Decentralized voting app made for a student project
 ### Dependencies
 NPM, Truffle, Ganache and Metamask
 ### App preview
